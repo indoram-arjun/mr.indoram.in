@@ -1,0 +1,29 @@
+<svg width="760" height="430" viewBox="0 0 760 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glass" x1="94" y1="36" x2="652" y2="377" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.45"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="760" height="430" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="26" stdDeviation="26" flood-color="#15132B" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <rect x="82" y="48" width="596" height="320" rx="32" fill="url(#glass)" stroke="white" stroke-opacity="0.75" stroke-width="3"/>
+    <rect x="82" y="48" width="596" height="62" rx="32" fill="white" fill-opacity="0.62"/>
+    <circle cx="126" cy="80" r="10" fill="#FF6AA2"/>
+    <circle cx="158" cy="80" r="10" fill="#FF9F45"/>
+    <circle cx="190" cy="80" r="10" fill="#35C88A"/>
+    <rect x="236" y="68" width="340" height="24" rx="12" fill="#422AD5" fill-opacity="0.14"/>
+    <rect x="122" y="146" width="204" height="34" rx="17" fill="#422AD5" fill-opacity="0.78"/>
+    <rect x="122" y="199" width="278" height="18" rx="9" fill="#15132B" fill-opacity="0.16"/>
+    <rect x="122" y="231" width="232" height="18" rx="9" fill="#15132B" fill-opacity="0.12"/>
+    <rect x="122" y="282" width="118" height="40" rx="20" fill="#422AD5"/>
+    <rect x="424" y="145" width="198" height="178" rx="28" fill="#422AD5" fill-opacity="0.14"/>
+    <rect x="452" y="174" width="142" height="72" rx="18" fill="#18B8FF" fill-opacity="0.45"/>
+    <rect x="452" y="267" width="84" height="16" rx="8" fill="#422AD5" fill-opacity="0.32"/>
+    <rect x="452" y="294" width="118" height="16" rx="8" fill="#422AD5" fill-opacity="0.2"/>
+  </g>
+  <path d="M646 98L701 66" stroke="white" stroke-opacity="0.7" stroke-width="5" stroke-linecap="round"/>
+  <path d="M52 328L104 298" stroke="white" stroke-opacity="0.65" stroke-width="5" stroke-linecap="round"/>
+</svg>
